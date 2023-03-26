@@ -45,7 +45,7 @@ function Home() {
               <h1>Get in Touch</h1>
               <p>
                 {" "}
-                I do not have much to say.
+                Have a wonderful day.
                 <br />
                 <strong>Feel free to connect with me</strong>
               </p>
